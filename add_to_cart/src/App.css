@@ -1,0 +1,158 @@
+.nav {
+  text-align: center;
+  position: relative;
+}
+
+input {
+  border-radius: 6px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  width: 40%;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.card-content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.product-image {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+.product-details {
+  /* display: flex;
+  flex-direction: column; */
+  align-items: center;
+}
+
+.product-details h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.product-details p {
+  margin: 0.5em 0;
+}
+
+.color-buttons {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.card-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.card-actions button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: none;
+  background-color: #ddd;
+}
+
+.card-actions span {
+  align-self: center;
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: none;
+  margin: 5px;
+}
+
+.btn1 {
+  background-color: red;
+}
+
+.btn2 {
+  background-color: grey;
+}
+
+.btn3 {
+  background-color: orange;
+}
+
+.cart-icon {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.cart-count {
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  padding: 2px 6px;
+  margin-left: 5px;
+}
+
+.cart-details {
+  position: fixed;
+  right: 20px;
+  top: 60px;
+  width: 300px;
+  max-height: 400px; /* Set a fixed max-height for the cart details */
+  overflow-y: auto; /* Enable vertical scrolling */
+  background: #fff;
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 16px;
+  z-index: 1000; /* Ensure it appears above other elements */
+}
+
+.cart-details h2 {
+  margin-top: 0;
+}
+
+.cart-details ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.cart-details li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.cart-details li span {
+  flex-grow: 1;
+}
+
+.cart-details li div {
+  display: flex;
+  gap: 4px;
+}
+
+.cart-details h3 {
+  margin-bottom: 0;
+}

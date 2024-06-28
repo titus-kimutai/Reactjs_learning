@@ -18,7 +18,7 @@
 
 ### TodoApp demonstration
 
-# This is my Todo List App with react
+# This is my Todo List App with reagoct
 
 i created a a todo list app where you can add a todo and perform other operations for example deleting and also updating a todo.
 Bellow is an image showing one created todo list and displayed the added list
