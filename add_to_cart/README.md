@@ -1,8 +1,12 @@
-# React + Vite
+# Add to Cart Feature 
+## in my previous e-commerce featue i created for shoe products i added another functionality of the add to cart where users can place their orders online and here is our it looks like
+##In the image below it shows an icon on the left corner side for checking the list of products you have placed for purchases
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![icon](https://github.com/titus-kimutai/Reactjs_learning/assets/110305805/9079b1a4-b86f-4011-892f-e0e6423e8c2d)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![cart_items](https://github.com/titus-kimutai/Reactjs_learning/assets/110305805/1027eca3-d39b-4385-adc6-48e7ad9a609b)
+
+![cart](https://github.com/titus-kimutai/Reactjs_learning/assets/110305805/09a9b396-d893-4cfd-b756-a83a1645fc0a)
+
+##All the above images shows the add to cart functionalities 
