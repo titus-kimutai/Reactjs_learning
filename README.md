@@ -38,7 +38,7 @@ for deleting in this image you can also see that i removed the welcome and remai
 ![UpdatingFunc_todoList](https://github.com/titus-kimutai/Reactjs/assets/110305805/d386c24b-1a73-450d-bb4a-c843a936b8f7)
 
 
-#### THIS ARE FOUR THE ADD TO CART PROJECT AND HOW IT WORKS 
+#### THIS ARE FOR THE ADD TO CART PROJECT AND HOW IT WORKS 
 
 # Add to Cart Feature 
 ## in my previous e-commerce featue i created for shoe products i added another functionality of the add to cart where users can place their orders online and here is our it looks like
